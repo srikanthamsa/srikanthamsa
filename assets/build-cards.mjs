@@ -32,12 +32,12 @@ const repos = [
     stars: 0,
   },
   {
-    file: "repo-benchboss",
+    file: "repo-auge",
     layout: "wide",
-    name: "benchboss",
-    desc: ["5-player Cricket 19 controller router with live bench swaps via virtual Xbox pads."],
-    lang: "Rust",
-    color: "#DEA584",
+    name: "auge",
+    desc: ["Native macOS workspace for websites, files and widgets, one keystroke away."],
+    lang: "Swift",
+    color: "#F05138",
     stars: 0,
   },
 ];
