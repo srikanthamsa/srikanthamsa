@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://github.com/srikanthamsa?tab=repositories"><img src="assets/hero.svg" alt="Srikant Hamsa — apps for macOS, iOS, Windows and Android. Game ports. Mods. UI/UX." width="100%" /></a>
+<a href="https://github.com/srikanthamsa?tab=repositories"><img src="assets/hero.svg?v=2" alt="Srikant Hamsa — apps for macOS, iOS, Windows and Android. Game ports. Mods. UI/UX." width="100%" /></a>
 
-<img src="assets/terminal.svg?v=5" alt="Terminal: open-sourcing everything I touch, shipping for macOS, iOS, Windows and Android, porting games to the Mac" width="100%" /><br /><br />
+<img src="assets/terminal.svg?v=6" alt="Terminal: open-sourcing everything I touch, shipping for macOS, iOS, Windows and Android, porting games to the Mac" width="100%" /><br /><br />
 
 <a href="https://github.com/srikanthamsa"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:srikanthamsa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -14,7 +14,9 @@
 
 I'm **Srikant Hamsa** — I build things, then open-source them, because good software should outlive the mood that produced it. My centre of gravity is **UI/UX**: native-feeling interfaces, deliberate motion, and details that survive the second glance. I ship across **macOS, iOS, Windows and Android**, and I port games to the Mac for sport.
 
-> Anything that feels wrong in the hand isn't finished.
+> It's not who I am underneath, but what I do that defines me.
+>
+> — Bruce Wayne
 
 ## What I ship
 
