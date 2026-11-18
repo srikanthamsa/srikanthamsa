@@ -60,13 +60,13 @@ I'm **Srikant Hamsa** — I build things, then open-source them, because good so
 
 The ones I'd show first.
 
-<a href="https://github.com/srikanthamsa/sunshine-macos-gamepads"><img src="assets/repo-sunshine.svg" alt="sunshine-macos-gamepads — Sunshine fork adding virtual gamepads on macOS. No SIP changes, no paid HID broker. C++" width="100%" /></a>
+<a href="https://github.com/srikanthamsa/sunshine-macos-gamepads"><img src="assets/repo-sunshine.svg?v=2" alt="sunshine-macos-gamepads — Sunshine fork adding virtual gamepads on macOS. No SIP changes, no paid HID broker. C++" width="100%" /></a>
 
-<a href="https://github.com/srikanthamsa/urban-reign-macos"><img src="assets/repo-urban-reign.svg" alt="urban-reign-macos — Urban Reign (PS2) recompiled for native Apple Silicon. 60 FPS, 3x resolution, co-op. C++" width="100%" /></a>
+<a href="https://github.com/srikanthamsa/urban-reign-macos"><img src="assets/repo-urban-reign.svg?v=2" alt="urban-reign-macos — Urban Reign (PS2) recompiled for native Apple Silicon. 60 FPS, 3x resolution, co-op. C++" width="100%" /></a>
 
-<a href="https://github.com/srikanthamsa/chess-sense"><img src="assets/repo-chess-sense.svg" alt="chess-sense — Reads your chess board off the screen and shows the best move in the Dynamic Island. Swift" width="100%" /></a>
+<a href="https://github.com/srikanthamsa/chess-sense"><img src="assets/repo-chess-sense.svg?v=2" alt="chess-sense — Reads your chess board off the screen and shows the best move in the Dynamic Island. Swift" width="100%" /></a>
 
-<a href="https://github.com/srikanthamsa/benchboss"><img src="assets/repo-benchboss.svg" alt="benchboss — 5-player Cricket 19 controller router with live bench swaps via virtual Xbox pads. Rust" width="100%" /></a>
+<a href="https://github.com/srikanthamsa/benchboss"><img src="assets/repo-benchboss.svg?v=2" alt="benchboss — 5-player Cricket 19 controller router with live bench swaps via virtual Xbox pads. Rust" width="100%" /></a>
 
 ## By the numbers
 
