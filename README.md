@@ -2,11 +2,7 @@
 
 <a href="https://github.com/srikanthamsa?tab=repositories"><img src="assets/hero.svg" alt="Srikant Hamsa — apps for macOS, iOS, Windows and Android. Game ports. Mods. UI/UX." width="100%" /></a>
 
-<br /><br />
-
-[![Rotating intro](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=21&letterSpacing=1&duration=3600&pause=900&color=C9D1D9&center=true&vCenter=true&width=980&height=52&lines=Open-sourcing+everything+I+touch%3BApps+for+macOS+%C2%B7+iOS+%C2%B7+Windows+%C2%B7+Android%3BPorting+games+to+the+Mac%2C+properly%3BMods%2C+tooling%2C+and+pixels+that+move)](https://github.com/srikanthamsa)
-
-<br />
+<img src="assets/terminal.svg" alt="Terminal: open-sourcing everything I touch, shipping for macOS, iOS, Windows and Android, porting games to the Mac" width="100%" />
 
 <a href="https://github.com/srikanthamsa"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:srikanthamsa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -22,9 +18,13 @@ I'm **Srikant Hamsa** — I build things, then open-source them, because good so
 
 ## What I ship
 
-|  |  |  |
-| :-- | :-- | :-- |
-| **Cross-platform apps**<br /><br />One idea, four native personalities. The same product, rethought per platform — right gestures on iOS, right keyboard on Windows, right menu bar on macOS. | **Game ports to macOS**<br /><br />Apple Silicon native, retina-crisp, controller-first. Ports that behave like the platform they moved to, instead of guests stuck in a wrapper. | **Mods & tooling**<br /><br />The fixes and utilities communities actually ask for — patches, mods and small sharp tools, built in the open and maintained like they're mine. |
+<table>
+  <tr>
+    <td valign="top" width="33%"><strong>Cross-platform apps</strong><br /><br />One idea, four native personalities. The same product, rethought per platform — right gestures on iOS, right keyboard on Windows, right menu bar on macOS.</td>
+    <td valign="top" width="33%"><strong>Game ports to macOS</strong><br /><br />Apple Silicon native, retina-crisp, controller-first. Ports that behave like the platform they moved to, instead of guests stuck in a wrapper.</td>
+    <td valign="top" width="33%"><strong>Mods &amp; tooling</strong><br /><br />The fixes and utilities communities actually ask for — patches, mods and small sharp tools, built in the open and maintained like they're mine.</td>
+  </tr>
+</table>
 
 ## Tools of the trade
 
@@ -54,13 +54,25 @@ I'm **Srikant Hamsa** — I build things, then open-source them, because good so
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
+## Top repos
+
+The ones I'd show first.
+
+<a href="https://github.com/srikanthamsa/sunshine-macos-gamepads"><img src="assets/repo-sunshine.svg" alt="sunshine-macos-gamepads — Sunshine fork adding virtual gamepads on macOS. No SIP changes, no paid HID broker. C++" width="100%" /></a>
+
+<a href="https://github.com/srikanthamsa/urban-reign-macos"><img src="assets/repo-urban-reign.svg" alt="urban-reign-macos — Urban Reign (PS2) recompiled for native Apple Silicon. 60 FPS, 3x resolution, co-op. C++" width="100%" /></a>
+
+<a href="https://github.com/srikanthamsa/chess-sense"><img src="assets/repo-chess-sense.svg" alt="chess-sense — Reads your chess board off the screen and shows the best move in the Dynamic Island. Swift" width="100%" /></a>
+
+<a href="https://github.com/srikanthamsa/benchboss"><img src="assets/repo-benchboss.svg" alt="benchboss — 5-player Cricket 19 controller router with live bench swaps via virtual Xbox pads. Rust" width="100%" /></a>
+
 ## By the numbers
 
 <div align="center">
 
 <table>
   <tr>
-    <td><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=srikanthamsa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=8B949E&text_color=C9D1D9&rank_icon=github&card_width=430" /></td>
+    <td><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=srikanthamsa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=8B949E&text_color=C9D1D9&rank_icon=github&card_width=430" /></td>
     <td><img alt="Streak" src="https://streak-stats.demolab.com?user=srikanthamsa&hide_border=true&background=0D1117&stroke=21262D&ring=E6EDF3&fire=E6EDF3&currStreakNum=E6EDF3&currStreakLabel=8B949E&sideNums=E6EDF3&sideLabels=8B949E&dates=586069" /></td>
   </tr>
 </table>
@@ -104,13 +116,9 @@ Everything I'm proud of lives here, in the open. If you're building in the open 
 
 <div align="center">
 
-<br />
-
 <a href="https://github.com/srikanthamsa"><img alt="Follow @srikanthamsa" src="https://img.shields.io/badge/Follow-%40srikanthamsa-161B22?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:srikanthamsa@gmail.com"><img alt="Email me" src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<br /><br />
-
-<img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D10,100:161B22&height=120&section=footer" width="100%" />
+<p><sub><strong>BUILT IN THE OPEN</strong> · macOS · iOS · Windows · Android</sub></p>
 
 </div>

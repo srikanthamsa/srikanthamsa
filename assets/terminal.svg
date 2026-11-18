@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="104" viewBox="0 0 1200 104" role="img" aria-label="Terminal: open-sourcing everything I touch">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#232A32"/>
+      <stop offset="0.5" stop-color="#39414B"/>
+      <stop offset="1" stop-color="#232A32"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="l1"><rect x="352" y="40" width="0" height="34">
+      <animate attributeName="width" values="0; 499; 499; 0; 0" keyTimes="0; 0.075; 0.225; 0.235; 1" dur="16s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <clipPath id="l2"><rect x="352" y="40" width="0" height="34">
+      <animate attributeName="width" values="0; 0; 655; 655; 0; 0" keyTimes="0; 0.25; 0.325; 0.475; 0.485; 1" dur="16s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <clipPath id="l3"><rect x="352" y="40" width="0" height="34">
+      <animate attributeName="width" values="0; 0; 515; 515; 0; 0" keyTimes="0; 0.5; 0.575; 0.725; 0.735; 1" dur="16s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <clipPath id="l4"><rect x="352" y="40" width="0" height="34">
+      <animate attributeName="width" values="0; 0; 546; 546; 0; 0" keyTimes="0; 0.75; 0.825; 0.975; 0.985; 1" dur="16s" repeatCount="indefinite"/>
+    </rect></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="102" rx="14" fill="#0D1117" stroke="url(#edge)" stroke-width="1.5"/>
+  <rect x="17" y="3" width="1166" height="38" rx="12" fill="url(#shine)"/>
+
+  <circle cx="36" cy="28" r="6.5" fill="#E5537B" opacity="0.85"/>
+  <circle cx="58" cy="28" r="6.5" fill="#30363D"/>
+  <circle cx="80" cy="28" r="6.5" fill="#30363D"/>
+
+  <text x="128" y="64" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" fill="#7D8590">~/srikanth $</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" fill="#E6EDF3">
+    <text x="352" y="64" clip-path="url(#l1)">
+      <animate attributeName="opacity" values="1; 1; 0; 0" keyTimes="0; 0.225; 0.235; 1" dur="16s" repeatCount="indefinite"/>
+      open-sourcing everything I touch
+    </text>
+    <text x="352" y="64" clip-path="url(#l2)" opacity="0">
+      <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.25; 0.26; 0.475; 0.485; 1" dur="16s" repeatCount="indefinite"/>
+      shipping for mac · ios · windows · android
+    </text>
+    <text x="352" y="64" clip-path="url(#l3)" opacity="0">
+      <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.5; 0.51; 0.725; 0.735; 1" dur="16s" repeatCount="indefinite"/>
+      porting games to the mac, properly
+    </text>
+    <text x="352" y="64" clip-path="url(#l4)" opacity="0">
+      <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.75; 0.76; 0.975; 0.985; 1" dur="16s" repeatCount="indefinite"/>
+      mods, tooling, and pixels that move
+    </text>
+  </g>
+
+  <rect x="352" y="41" width="14" height="27" fill="#E6EDF3">
+    <animate attributeName="x" values="352; 851; 851; 352; 1007; 1007; 352; 867; 867; 352; 898; 898; 352; 352" keyTimes="0; 0.075; 0.225; 0.235; 0.325; 0.475; 0.485; 0.575; 0.725; 0.735; 0.825; 0.975; 0.985; 1" dur="16s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1; 1; 0; 0; 1" keyTimes="0; 0.45; 0.46; 0.95; 1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
