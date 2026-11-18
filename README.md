@@ -2,7 +2,7 @@
 
 <a href="https://github.com/srikanthamsa?tab=repositories"><img src="assets/hero.svg" alt="Srikant Hamsa — apps for macOS, iOS, Windows and Android. Game ports. Mods. UI/UX." width="100%" /></a>
 
-<img src="assets/terminal.svg?v=4" alt="Terminal: open-sourcing everything I touch, shipping for macOS, iOS, Windows and Android, porting games to the Mac" width="100%" /><br /><br />
+<img src="assets/terminal.svg?v=5" alt="Terminal: open-sourcing everything I touch, shipping for macOS, iOS, Windows and Android, porting games to the Mac" width="100%" /><br /><br />
 
 <a href="https://github.com/srikanthamsa"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:srikanthamsa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white"></a>
